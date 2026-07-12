@@ -11,7 +11,7 @@
 
 4. Publication The research findings will be published in the standard academic format. We guarantee that it will not be possible to draw any conclusions about natural persons from the publications.
 
-5. Voluntary participation and withdrawal Participation in the research project is voluntary. Non-participation has no consequences! This consent may be withdrawn at any time in writing and informally to the data-collecting body, with effect for the future. In this case, please send an email to **ju48iqem@studserv.uni-leipzig.de ** requesting that your data be deleted.
+5. Voluntary participation and withdrawal Participation in the research project is voluntary. Non-participation has no consequences! This consent may be withdrawn at any time in writing and informally to the data-collecting body, with effect for the future. In this case, please send an email to **ju48iqem@studserv.uni-leipzig.de** requesting that your data be deleted.
 
 6. Data Protection Officer and Data Protection Supervisory Authority I am aware that I may contact the Data Protection Officer at the University of Leipzig[^1] and the relevant supervisory authority[^2] for data protection at any time.
 
