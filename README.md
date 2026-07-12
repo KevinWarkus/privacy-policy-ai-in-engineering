@@ -9,7 +9,7 @@
 2. Data processing  
     This declaration of consent covers the processing of personal data collected via the ‘Working with AI tools’ questionnaire.
 
-3. Anonymity
+3. Anonymity    
    No direct personal data such as name or email address is collected.
 
 4. Publication
