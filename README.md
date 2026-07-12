@@ -13,15 +13,15 @@
    No direct personal data such as name or email address is collected.
 
 4. Publication
-   The research findings will be published in the standard academic format. We guarantee that it will not be possible to draw any conclusions about natural persons from the publications.
+    The research findings will be published in the standard academic format. We guarantee that it will not be possible to draw any conclusions about natural persons from the publications.
 
-5. Voluntary participation and withdrawal
+6. Voluntary participation and withdrawal
    Participation in the research project is voluntary. Non-participation has no consequences! This consent may be withdrawn at any time in writing and informally to the data-collecting body, with effect for the future. In this case, please send an email to **ju48iqem@studserv.uni-leipzig.de** requesting that your data be deleted.
 
-6. Data Protection Officer and Data Protection Supervisory Authority
+7. Data Protection Officer and Data Protection Supervisory Authority
     I am aware that I may contact the Data Protection Officer at the University of Leipzig[^1] and the relevant supervisory authority[^2] for data protection at any time.
 
-7. Right of access
+8. Right of access
     I am aware that I may at any time request information regarding the personal data processed about me, as well as the possible recipients to whom this data has been transferred, and that I am entitled to a response within one month of receipt of the request for information.
 
 [^1]: University of Leipzig, Neues Augusteum, Augustusplatz 10, 04109 Leipzig
