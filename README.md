@@ -26,6 +26,6 @@
 
 [^1]: University of Leipzig, Neues Augusteum, Augustusplatz 10, 04109 Leipzig
 
-[^2]: Saxony Data Protection Commissioner, PO Box 11 01 32, 01330 Dresden 
+[^2]: Sächsischer Datenschutzbeauftragter, Postfach 11 01 32, 01330 Dresden 
 
 
