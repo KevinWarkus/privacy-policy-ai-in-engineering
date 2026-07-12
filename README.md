@@ -6,8 +6,8 @@
 
    Solely for the aforementioned research purpose, personal data will be processed by the University of Leipzig, Faculty of Mathematics and Computer Science, Chair of Software Systems, Prof. Norbert Siegmund (processing in the sense of collection, storage, modification and use). Voluntary and informed consent is required for this. The data will be used exclusively for the analysis and will not be passed on to your employer.
 
-2. Data processing
-   This declaration of consent covers the processing of personal data collected via the ‘Working with AI tools’ questionnaire.
+2. Data processing  
+    This declaration of consent covers the processing of personal data collected via the ‘Working with AI tools’ questionnaire.
 
 3. Anonymity
    No direct personal data such as name or email address is collected.
